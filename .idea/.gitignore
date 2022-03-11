@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Книги Java\Java Persistence API и Hibernate. 2017\jpwh-2e-examples-20151103\jpwh-2e-examples-20151103\Bubble\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
